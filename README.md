@@ -1,3 +1,14 @@
-<ul style="list-style: none;">
-    <li><img src="./imgs/react.png" alt="" /></li>
-</ul>
+## Lang 💻
+🟨 JavaScript  
+🟦 TypeScript  
+🟪 PHP  
+
+## Framework ⚙
+🔵 React.js  
+🟡 Next.js  
+🔴 Nest.js  
+🟣 Laravel
+
+## Cloud 🌥
+🔥 Firebase  
+🎁 AWS
