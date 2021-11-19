@@ -1,14 +1,14 @@
 ## Lang 💻
-🟨 JavaScript  
-🟦 TypeScript  
-🟪 PHP  
+- JavaScript  
+- TypeScript  
+- PHP  
 
 ## Framework ⚙
-🔵 React.js  
-🟡 Next.js  
-🔴 Nest.js  
-🟣 Laravel
+- React.js  
+- Next.js  
+- Nest.js  
+- Laravel
 
 ## Cloud 🌥
-🔥 Firebase  
-🎁 AWS
+- Firebase  
+- AWS
