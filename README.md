@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontTSend)](https://github.com/frontTSend/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontTSend&hide=php,blade](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Lang 💻
@@ -15,3 +15,5 @@
 ## Cloud 🌥
 - Firebase  
 - AWS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontTSend&show_icons=true&theme=radical)
