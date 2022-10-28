@@ -5,5 +5,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sho-ts&theme=radical&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-- [📕Blog](https://sho-ts.net)
+- [📕Blog](https://blog.nanolier.art)
 - [✏️Study](https://github.com/sho-study)
